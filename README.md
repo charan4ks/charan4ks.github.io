@@ -10,15 +10,13 @@ Sai Charan</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in a banglore based startup
+- 🔭 I’m currently working in a Banglore based startup
 
-- 🌱 I’m currently Working on Scaling Systems
+- 🌱 I’m build scalable systems and got expertise in backend
 
-- 🤝 
+- 🌱 I’m passionate about technology
 
-- 🌱 I’m currently learning tech
-
-- 📝 
+- 📝 I talk about Architecture, Tech and systems
 
 - 💬 Ask me about **Buildings & Bytes**
 
@@ -55,9 +53,7 @@ Sai Charan</a></h1>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+- [Blog on UAVs in Construction Industry](https://medium.com/@charan.arch/advancement-of-uavs-drones-in-the-field-of-construction-7709916951ce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
