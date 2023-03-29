@@ -12,9 +12,9 @@ Sai Charan</a></h1>
 
 - 🔭 I’m currently working in a Banglore based startup
 
-- 🌱 I’m build scalable systems and got expertise in backend
+- 🌱 I build scalable systems
 
-- 🌱 I’m passionate about technology
+- 🌱 Passionate about technology and its contribution to redefine our lives
 
 - 📝 I talk about Architecture, Tech and systems
 
